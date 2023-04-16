@@ -7,6 +7,9 @@ Protect yourself from your enemies
 Move-WASD keys
 Shoot-Left click or space
 
+## Download 
+Download it from your right corner (Releases)
+
 ## Screenshots
 ![Title Screen](https://github.com/VT-Enterprises/Rain-Of-Blood/blob/main/screenshots/Untitled.png?raw=true)
 ![Play Screen](https://github.com/VT-Enterprises/Rain-Of-Blood/blob/main/screenshots/Untitled2.png?raw=true)
