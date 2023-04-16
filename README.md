@@ -8,7 +8,7 @@ Move-WASD keys
 Shoot-Left click or space
 
 ## Download 
-Download it from your right corner (Releases)
+Download it from your right corner (Releases) or from above select **Rain.Of.Blood-1_0_2-windows.exe**
 
 ## Screenshots
 ![Title Screen](https://github.com/VT-Enterprises/Rain-Of-Blood/blob/main/screenshots/Untitled.png?raw=true)
