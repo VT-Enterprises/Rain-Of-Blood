@@ -8,5 +8,5 @@ Move-WASD keys
 Shoot-Left click or space
 
 ##Screenshots
-https://github.com/VT-Enterprises/Rain-Of-Blood/blob/main/screenshots/Untitled.png?raw=true
-https://github.com/VT-Enterprises/Rain-Of-Blood/blob/main/screenshots/Untitled2.png?raw=true
+![Title Screen](https://github.com/VT-Enterprises/Rain-Of-Blood/blob/main/screenshots/Untitled.png?raw=true)
+![Play Screen](https://github.com/VT-Enterprises/Rain-Of-Blood/blob/main/screenshots/Untitled2.png?raw=true)
