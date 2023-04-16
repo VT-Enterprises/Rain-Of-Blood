@@ -7,11 +7,11 @@ Protect yourself from your enemies
 Move-WASD keys
 Shoot-Left click or space
 
+## Download 
+Download it from your right corner (Releases)
+
 ## PLay It Online
 Wanna play it online?? Then Visit https://vtstudios.itch.io/rain-of-blood-2
-
-## Download 
-Download it from your right corner (Releases) or from above select **Rain.Of.Blood-1_0_2-windows.exe**
 
 ## Screenshots
 ![Title Screen](https://github.com/VT-Enterprises/Rain-Of-Blood/blob/main/screenshots/Untitled.png?raw=true)
